@@ -164,7 +164,7 @@ All configurations are managed via environment variables. Ensure you have a `.en
 
 This project is released under the MIT License. This means you are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software without restriction, provided that the following copyright notice and permission notice are included in all copies or substantial portions of the software:
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2024] [Yiğit Konur]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
