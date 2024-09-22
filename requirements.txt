@@ -1,0 +1,9 @@
+asyncio
+python-dotenv
+fastapi
+pydantic
+requests
+PyMuPDF
+openai
+uvicorn
+python-multipart
