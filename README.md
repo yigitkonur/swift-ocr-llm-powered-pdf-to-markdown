@@ -18,6 +18,37 @@ https://github.com/user-attachments/assets/6b39f3ea-248e-4c29-ac2e-b57de64d5d65
 
 *Demo video showcasing the conversion of NASA's Apollo 17 flight documents, which include unorganized, horizontally and vertically oriented pages, into well-structured Markdown format without any issues.*
 
+Here's a single, comprehensive section on cost comparison for your README:
+
+## Cost Comparison and Value Proposition
+
+Our solution offers an optimal balance of affordability, accuracy, and advanced features:
+
+### Cost Breakdown
+- Average token usage per image: ~1200
+- Total tokens per page (including prompt): ~1500
+- [GPT4O] Input token cost: $5 per million tokens
+- [GPT4O] Output token cost: $15 per million tokens
+
+For 1000 documents:
+- Estimated total cost: $15
+
+#### Cost Optimization Options
+1. Utilizing GPT4 mini: Reduces cost to ~$8 per 1000 documents
+2. Implementing batch API: Further reduces cost to ~$4 per 1000 documents
+
+#### Market Comparison
+This solution is significantly more affordable than alternatives:
+- Our cost: $15 per 1000 documents
+- CloudConvert: ~$30 per 1000 documents (PDFTron mode, 4 credits required)
+
+While cost-effectiveness is a major advantage, our solution also provides:
+- Superior accuracy and consistency
+- Precise table generation
+- Output in easily editable markdown format
+
+This combination of affordability and advanced features makes solution stand out in the document processing market. It's not just about being cheaper; it's about providing excellent value through reliability, flexibility, and high-quality output.
+
 ## 🛠️ Installation
 
 ### Prerequisites
