@@ -159,3 +159,15 @@ All configurations are managed via environment variables. Ensure you have a `.en
 - **BATCH_SIZE**: Number of images to process per OCR request (default: 1).
 - **MAX_CONCURRENT_OCR_REQUESTS**: Maximum number of concurrent OCR requests (default: 5).
 - **MAX_CONCURRENT_PDF_CONVERSION**: Maximum number of concurrent PDF page conversions (default: 4).
+
+## 📜 License ([thx for issue](https://github.com/yigitkonur/swift-ocr-llm-powered-pdf-to-markdown/issues/1))
+
+This project is released under the MIT License. This means you are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software without restriction, provided that the following copyright notice and permission notice are included in all copies or substantial portions of the software:
+
+Copyright (c) [year] [fullname]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
