@@ -62,7 +62,7 @@ This combination of affordability and advanced features makes solution stand out
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/llm-openai-ocr.git
+   git clone https://github.com/yigitkonur/llm-openai-ocr.git
    cd llm-openai-ocr
    ```
 
