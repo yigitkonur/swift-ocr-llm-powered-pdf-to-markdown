@@ -400,7 +400,7 @@ class OCRService:
                     model=Settings.OPENAI_DEPLOYMENT_ID,
                     messages=messages,
                     temperature=0.1,
-                    max_tokens=800,
+                    max_tokens=4000,
                     top_p=0.95,
                     frequency_penalty=0,
                     presence_penalty=0,
